@@ -2,7 +2,7 @@
 
 Website preview for **VIP Computer Institute**, MJ College Rd, Ramdas Colony, Jalgaon.
 
-**View the website:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**View the website:** https://lolge-harshal.github.io/VIP-Computer-Institute/
 
 This is a preview made for your review. Open the link above on your phone and computer, look around, and tell us what you would like changed.
 
